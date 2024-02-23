@@ -19,6 +19,9 @@ Before you begin, ensure you have the following:
 ![new_repo](https://myfirststaticwebappsa.blob.core.windows.net/screenshoots/github-new-repo.png "Optional title")
 
 3. Create a new empty repository.
+
+![new_repo2](https://myfirststaticwebappsa.blob.core.windows.net/screenshoots/github-create-repo.png)
+
 4. Save the SSH URL of your repository for future use.
 
 ## Step 2: Add SSH Keys into GitHub
