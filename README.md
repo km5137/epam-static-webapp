@@ -15,6 +15,9 @@ Before you begin, ensure you have the following:
 
 1. Log into GitHub.
 2. Click the **New Repository** button.
+   
+![new_repo]([URL_of_the_image](https://myfirststaticwebappsa.blob.core.windows.net/screenshoots/github-new-repo.png))
+
 3. Create a new empty repository.
 4. Save the SSH URL of your repository for future use.
 
