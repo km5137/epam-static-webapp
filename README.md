@@ -138,7 +138,7 @@ git push origin main
 - **Repository**: Choose the repository we created earlier.
 - **Branch**: Choose the branch "main".
 
-5. Choose your repository and main branch, then press **Review + create** and finally **Create**.
+5. press **Review + create** and finally **Create**.
 6. Wait for the deployment to finish, then go to the resource.
 7. Wait approximately 3-5 minutes for GitHub Actions to finish the deployment. Copy the URL of your Web App and open it in a new browser tab.
 
