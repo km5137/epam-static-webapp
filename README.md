@@ -122,21 +122,21 @@ git push origin main
 3. Choose **Static Web App** in the marketplace and press **Create**.
 4. Define basic parameters for your Static Web App.
 
-        ## Azure Static Web App Configuration Parameters
-        
-        - **Subscription**: Choose your active Subscription.
-        - **Resource Group**: Press "create new" and type `my-first-static-web-app`.
-        - **Name**: `my-first-static-web-app-<your-name>` (Replace `<your-name>` with your actual name).
-        - **Plan type**: Select "Free".
-        - **Region**: Choose the closest to you region.
-        - **Source**: GitHub
-        
-        ### GitHub Configuration
-        
-        - **GitHub Account**: Press "click here to login" and login into your GitHub account and give Azure the required permissions.
-        - **Organization**: Choose your account name.
-        - **Repository**: Choose the repository we created earlier.
-        - **Branch**: Choose the branch "main".
+### Azure Static Web App Configuration Parameters
+
+- **Subscription**: Choose your active Subscription.
+- **Resource Group**: Press "create new" and type `my-first-static-web-app`.
+- **Name**: `my-first-static-web-app-<your-name>` (Replace `<your-name>` with your actual name).
+- **Plan type**: Select "Free".
+- **Region**: Choose the closest to you region.
+- **Source**: GitHub
+
+#### GitHub Configuration
+
+- **GitHub Account**: Press "click here to login" and login into your GitHub account and give Azure the required permissions.
+- **Organization**: Choose your account name.
+- **Repository**: Choose the repository we created earlier.
+- **Branch**: Choose the branch "main".
 
 5. Choose your repository and main branch, then press **Review + create** and finally **Create**.
 6. Wait for the deployment to finish, then go to the resource.
