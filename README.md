@@ -128,6 +128,8 @@ git push origin main
 3. Choose **Static Web App** in the marketplace and press **Create**.
 4. Define basic parameters for your Static Web App.
 
+![azure_config](https://myfirststaticwebappsa.blob.core.windows.net/screenshoots/Azure web-app-config.PNG)
+
 #### Azure Static Web App Configuration Parameters
 
 - **Subscription**: Choose your active Subscription.
