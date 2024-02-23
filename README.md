@@ -68,7 +68,7 @@ Before you begin, ensure you have the following:
 </html>
 ```
 
-2. In Visual Studio Code, create a new file named `index.html` with the following HTML structure:
+2. In Visual Studio Code, create a new file named `Style.css` with the following CSS structure:
 ```
 body {
     font-family: Arial, sans-serif;
@@ -97,3 +97,20 @@ button {
 }
 ```
 
+3. In Visual Studio Code, create a new file named `script.js` with the following code:
+
+```
+document.getElementById('clickMeBtn').addEventListener('click', function() {
+    alert('Thanks for clicking me!');
+});
+
+```
+
+4. Open the Integrated Terminal in Visual Studio Code
+- Launch the terminal within Visual Studio Code to start executing your commands.
+
+5. Stage Your New Files
+- Stage all your changes for the next commit with the following command:
+  ```bash
+  git add .
+  ```
