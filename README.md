@@ -66,3 +66,34 @@ Before you begin, ensure you have the following:
     <script src="script.js"></script>
 </body>
 </html>
+```
+
+2. In Visual Studio Code, create a new file named `index.html` with the following HTML structure:
+```
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+header h1 {
+    color: #333;
+}
+
+main p {
+    margin: 20px;
+    font-size: 1.2rem;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+```
+
