@@ -22,7 +22,7 @@ Before you begin, ensure you have the following:
 
 1. Open the command line on your local PC.
 2. Type `ssh-keygen` and follow the instructions, leaving everything at default.
-3. Navigate to the `.ssh` folder in your home directory. You will find two newly generated files: `<your_key_name>.key` and `<your-key-name>.pub`.
+3. Navigate to the `~/.ssh` folder. You will find two newly generated files: `<your_key_name>.key` and `<your-key-name>.pub`.
 4. Copy the content of `<your_key_name>.pub`.
 5. Go to the GitHub portal and click on your account picture, then **Settings**.
 6. Navigate to the **SSH and GPG keys** section.
